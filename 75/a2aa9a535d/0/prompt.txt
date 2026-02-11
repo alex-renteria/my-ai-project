@@ -1,0 +1,9 @@
+can you setup a rewind point for entire?
+
+---
+
+actually read this repo https://github.com/entireio/cli
+
+---
+
+ok make a git commit,after you  create an md file in the repo with this inf
