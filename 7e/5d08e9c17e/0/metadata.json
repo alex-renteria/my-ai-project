@@ -1,0 +1,30 @@
+{
+  "cli_version": "0.4.2",
+  "checkpoint_id": "7e5d08e9c17e",
+  "session_id": "06c878de-fcac-4c1d-aeab-0a05fe7d52d5",
+  "strategy": "manual-commit",
+  "created_at": "2026-02-11T01:07:25.432913Z",
+  "branch": "zealous-chaum",
+  "checkpoints_count": 1,
+  "files_touched": [
+    "TODO.md"
+  ],
+  "agent": "Claude Code",
+  "transcript_identifier_at_start": "16005c0b-eabc-497c-b9e0-81adf129820d",
+  "token_usage": {
+    "input_tokens": 18,
+    "cache_creation_tokens": 18694,
+    "cache_read_tokens": 295106,
+    "output_tokens": 71,
+    "api_call_count": 10
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-02-11T01:07:25.428894Z",
+    "agent_lines": 4,
+    "human_added": 105,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 109,
+    "agent_percentage": 3.669724770642202
+  }
+}

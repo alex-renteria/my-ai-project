@@ -1,0 +1,15 @@
+what are the commenbts in this repo
+
+---
+
+whre do people normally add to do comments? in a separate md file ? or within the code?
+
+---
+
+yes add a TODO md list. 
+* Keep testing Claude Code in Terminal vs Window
+* learn more about entire
+
+---
+
+good, push git
